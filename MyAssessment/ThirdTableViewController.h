@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ThirdTableViewController.h
 //  MyAssessment
 //
 //  Created by Parker on 15/4/9.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ThirdTableViewController : UITableViewController
 
 @end
-
